@@ -1,0 +1,5 @@
+mkdir -p .github/workflows
+# tạo file .github/workflows/build-apk.yml với nội dung trên
+git add .github/workflows/build-apk.yml
+git commit -m "Add GitHub Actions workflow to build APK"
+git push
